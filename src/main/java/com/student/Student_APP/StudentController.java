@@ -10,7 +10,7 @@ public class StudentController {
 	
 	@GetMapping("/student")
 	public String getDetails() {
-		return "I am created student App  ";
+		return "I am created student App and app is updated  ";
 	}
 
 }
